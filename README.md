@@ -18,8 +18,8 @@ To write a program to find the square root of a number.
 ```
 /*
 Program to find the square root for the given number(newton's method) using function.
-Developed by: 
-RegisterNumber:  
+Developed by: Kaushika.A
+RegisterNumber:  21500112
 */
 def sqroot(x):
     b=x
